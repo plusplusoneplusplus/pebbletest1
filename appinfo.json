@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "tyh20082000@live.com",
+    "longName": "Test1",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Test1",
+    "uuid": "1cf5ffa7-dddb-4f2e-863b-652eedef7e8c",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
